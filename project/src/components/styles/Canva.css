@@ -1,0 +1,72 @@
+.box{
+    height: 70px;
+    width: 100%;
+    border: 2px solid black;
+  }
+  
+  .box1{
+    height: 60px;
+    width: 60px;
+    float:left;
+    line-height: 60px;
+    margin-top: 3px;
+    margin-left: 8px;
+    text-align: center;
+  }
+  .box2{
+    height: 60px;
+    width: 60px;
+    float:left;
+    line-height: 60px;
+    margin-top: 3px;
+    margin-left: 8px;
+    text-align: center;
+  }
+  .box1:hover{
+    border: 1px solid black;
+  }
+  
+  .boxx{
+    height: 50px;
+    width: 100%;
+    border: 2px solid black;
+  }
+  .boxx1{
+    height: 40px;
+    width: 60px;
+    float:left;
+    line-height: 40px;
+    margin-top: 3px;
+    margin-left: 8px;
+    text-align: center;
+  }
+  
+  
+  .boxx1:hover{
+    border: 1px solid black;
+    background-color: red;
+  }
+  
+  span {
+    margin: 0;
+    padding: 0;
+  }
+  /* .bott{
+    background: url("https://myborosil.com/cdn/shop/files/Trek-Black-1000-x-1000.jpg?v=1667197966");
+    background-size: 100% 100%;
+    height: 600px;
+  } */
+  
+  .text-img{
+    margin-top: 320px; 
+     margin-left: 200px;
+    font-size: 22px;
+    color: red;
+  }
+  
+  
+  .vertical {
+    writing-mode: vertical-rl;
+    transform: rotate(-180deg);
+   
+  }
